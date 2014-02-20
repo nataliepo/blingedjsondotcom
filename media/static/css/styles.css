@@ -1,0 +1,149 @@
+/*
+ * magenta jewel: #AE009E
+*/
+
+body {
+   font-size: 18px;
+}
+
+
+h1 {
+  text-align: center;
+  color: #AE009E;
+  font-family: "Courier New";
+  font-style: normal;
+  font-weight: 300;
+  line-height: 74px;
+  font-size: 74px;
+}
+
+h2 {
+   text-align: center;
+   font-size: 34px;
+   font-family: "Courier New";
+   font-style: normal;
+   font-weight: 100;
+   text-transform: uppercase;
+   margin: 45px auto 0 auto;
+}
+
+.super-large {
+   font-size: 100px;
+   font-weight: 200;
+   
+}
+.hero-unit {
+   
+}
+
+p {
+   font-family: "Courier New";
+}
+
+.centered-pills { 
+   text-align:center; 
+   margin: 50px auto;
+}
+.centered-pills ul.nav-pills { 
+   display:inline-block;
+   margin-bottom: 0px !important;
+}
+.centered-pills li { 
+   display:inline; 
+}
+.centered-pills a { 
+   float:left; 
+   text-decoration: none;
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
+   color: #F8DFCD !important;
+   background-color: #AE009E;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+   background-color: #F8DFCD;
+}
+
+a {
+   color: #AE009E !important;
+   text-decoration: underline;
+   
+   font-family: "Courier New",sans-serif;
+   font-style: normal;
+}
+
+.google_form {
+    width: 450px;
+    margin: 50px auto 0px;
+}
+
+.map {
+   width: 700px;
+   margin: 50px auto 0px;
+}
+
+.map p {
+   text-align: center;
+}
+
+.row {
+   margin: 25px auto;
+}
+
+.row p {
+   font-family: "Courier New";
+   font-style: normal;
+   font-size: 18pt;
+   line-height: 24pt;
+   
+   text-align: center;
+   margin: 40px auto 0 auto;
+}
+
+li {
+   font-family: "Courier New";
+   font-style: normal;
+   font-size: 18pt;
+   line-height: 24pt;
+   margin: 0px 0px 15px 0px;
+}
+
+.accomo-list ul {
+   margin: 25px 80px 0 80px;
+}
+
+.left {
+   float: left;
+}
+
+p.left {
+   text-align: left;
+}
+
+.right {
+   float: right;
+}
+
+.accomo-list {
+   margin: 95px 50px 0 50px;
+}
+
+.rsvp-form {
+   width: 500px;
+   margin: 25pt auto;
+}
+
+.top-spacer {
+   margin-top: 150px;
+}
+
+.inquiry_footer {
+    text-align: center;
+    width: 100%;
+}
+
+.inquiry_footer a {
+    text-decoration: none;
+    font-size: 10pt;
+}
