@@ -31,6 +31,7 @@ class Application(tornado.web.Application):
         handlers = [         
             (r"/support", views.web.Support),
             (r"/about", views.web.About),
+            (r"/what-is-json", views.web.JSONHelp),
             (r"/", views.web.MainIndex),
             
             # everything else should 404.

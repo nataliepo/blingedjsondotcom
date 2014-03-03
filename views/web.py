@@ -70,6 +70,13 @@ class Support(DefaultHandler):
         
         return
 
+
+class JSONHelp(DefaultHandler):
+    def get(self):
+        # Reroute this user.
+        self.redirect("http://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it/383699#383699")
+        
+
 class PageNotFound(DefaultHandler):
     def get(self, basename=''):   
         self.render('404')
