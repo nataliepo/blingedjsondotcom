@@ -7,7 +7,7 @@
 </div>
 
 <div class="row about">
-    <p>A long, long, time ago, I wrote a webapp against a service that produced unreliable JSON.  Most of the time, this service's JSON was fine, but, every now and then, it would contain an offensive character invisible to the naked eye, left over from a copy-and-paste job from a well-known word processing app of yore. Tracking down the exact placement of these invisible characters in a hefty set of text proved unwieldy and impossible to those who could not effectively reevalute a binary search using <a href="http://www.jsonlint.com">jsonlint.com</a> repeatedly. Alas, I wrote this desktop app to quickly, effectively, and blingily help my fellow problem-solvers.</p>
+    <p>A long, long, time ago, I wrote a webapp against a service that produced unreliable JSON.  Most of the time, this service's JSON was fine, but, every now and then, it would contain an offensive character invisible to the naked eye, left over from a copy-and-paste job from a well-known word processing app of yore. Tracking down the exact placement of these invisible characters in a hefty set of text proved unwieldy and impossible to those who could not effectively manuever a binary search using <a href="http://www.jsonlint.com">jsonlint.com</a> (an inspiration, btw!) repeatedly. Alas, I wrote this desktop app to quickly, effectively, and blingily help my fellow problem-solvers.</p>
 
 </div>
 
