@@ -19,6 +19,7 @@
 		
         <link rel="stylesheet" href="${ROOT_URL}/static/css/styles.css">
 
+        <title>Blinged JSON Validator: ${page_name}</title>
 </head>
 
     <body>

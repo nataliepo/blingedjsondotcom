@@ -54,19 +54,19 @@ class DefaultHandler(tornado.web.RequestHandler):
 
 class MainIndex(DefaultHandler):
     def get(self):
-        return self.render('index')
+        return self.render('index', {"page_name": "A Mac App"})
         
         
         
 class About(DefaultHandler):
     def get(self, basename=''):   
-        self.render('about')
+        self.render('about', {"page_name": "About"})
         
         return
         
 class Support(DefaultHandler):
     def get(self, basename=''):   
-        self.render('support')
+        self.render('support', {"page_name": "Support"})
         
         return
 
@@ -79,6 +79,6 @@ class JSONHelp(DefaultHandler):
 
 class PageNotFound(DefaultHandler):
     def get(self, basename=''):   
-        self.render('404')
+        self.render('404', {"page_name": "Page Not Found"})
         
         return
