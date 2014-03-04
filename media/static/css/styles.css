@@ -42,7 +42,7 @@ p {
 
 .centered-pills { 
    text-align:center; 
-   margin: 50px auto;
+   margin: 100px auto;
 }
 .centered-pills ul.nav-pills { 
    display:inline-block;
@@ -146,4 +146,23 @@ p.left {
 .inquiry_footer a {
     text-decoration: none;
     font-size: 10pt;
+}
+.demo {
+    width: 550px;
+    background-color: #000;
+    margin: 0px auto;
+    padding: 10px 25px;
+}
+.row.about {
+
+    max-width: 1000px;
+    margin: 0px auto;
+}
+.row.about p {
+    font-size: 16pt;
+    line-height: 22pt; 
+}
+
+.row.front-page {
+    max-width: 1000px;
 }
