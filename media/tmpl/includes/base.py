@@ -60,6 +60,11 @@
 				</ul>
 				
             </div>
+            <div class="mac-icon bottom">
+                <p>Last release: <br />
+                    v1.0 - 06 March 2014</p>
+                <a href="https://itunes.apple.com/us/app/blinged-json-validator/id833982915?ls=1&mt=12"><img src="${ROOT_URL}/static/img/mac-store.png" /></a>
+            </div>
 		
 		</div>
 		

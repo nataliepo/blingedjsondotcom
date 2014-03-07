@@ -42,7 +42,7 @@ p {
 
 .centered-pills { 
    text-align:center; 
-   margin: 100px auto;
+   margin: 50px auto;
 }
 .centered-pills ul.nav-pills { 
    display:inline-block;
@@ -165,4 +165,35 @@ p.left {
 
 .row.front-page {
     max-width: 1000px;
+    margin: 50px auto 0px auto;
 }
+.front-page h1 {
+    font-size: 54px;
+    line-height: 54px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.front-page .icons {
+    float: left;
+    width: 150px;
+    margin: 0px auto;
+}
+.mac-icon {
+    width: 165px;
+    margin: 0px auto;
+    padding: 5px 0px 35px 0px;
+}
+.mac-icon.bottom {
+    width: 165px;
+}
+.mac-icon.bottom p{
+    text-align: center;
+    font-size: 10pt;
+}
+
+.front-page .app-icon {
+    width: 100px;
+    margin: 0px 30px;
+}
+
