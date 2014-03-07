@@ -34,7 +34,6 @@
         <a href="http://blingedjson.com/support">App Support</a><br />
         <a href="http://nataliepo.com">My Personal Site</a><br />
 
-        <p>Last updated: 03 March 2014</p>
 </div>
 
 #end def
