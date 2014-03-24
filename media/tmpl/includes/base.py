@@ -12,7 +12,7 @@
 
 	    <script src="${ROOT_URL}/static/js/jquery-1.7.2.min.js"></script>  
         <script src="${ROOT_URL}/static/js/utilities.js?${random_number}"></script>  
-
+        <link rel="icon" type="image/png" href="${ROOT_URL}/static/img/fav.ico" />
         <link rel="stylesheet" href="${ROOT_URL}/static/css/bootstrap.min.css">
 
         <link rel="stylesheet" href="${ROOT_URL}/static/css/bootstrap-responsive.min.css">
