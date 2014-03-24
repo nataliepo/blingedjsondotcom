@@ -197,3 +197,29 @@ p.left {
     margin: 0px 30px;
 }
 
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    .row.front-page {
+        margin: 10px auto 0px auto;
+    }
+    
+    .front-page .app-icon {
+        width: 100px;
+        margin: 0px 0px;
+    }
+    .front-page .icons {
+        float: center;
+        width: 100px;
+    }
+    .front-page h1 {
+        text-align: center;
+    }
+    .demo {
+        width: 320px;
+    }
+    
+}
+
+
+
+
