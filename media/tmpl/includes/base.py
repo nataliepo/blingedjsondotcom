@@ -12,7 +12,7 @@
 
 	    <script src="${ROOT_URL}/static/js/jquery-1.7.2.min.js"></script>  
         <script src="${ROOT_URL}/static/js/utilities.js?${random_number}"></script>  
-
+        <link rel="icon" type="image/png" href="${ROOT_URL}/static/img/fav.ico" />
         <link rel="stylesheet" href="${ROOT_URL}/static/css/bootstrap.min.css">
 
         <link rel="stylesheet" href="${ROOT_URL}/static/css/bootstrap-responsive.min.css">
@@ -61,8 +61,9 @@
 				
             </div>
             <div class="mac-icon bottom">
-                <p>Last release: <br />
-                    v1.0 - 06 March 2014</p>
+                <p>Release History: <br />
+                    v1.0.1 - 04/04/2014<br />
+                    v1.0.0 - 03/06/2014</p>
                 <a href="https://itunes.apple.com/us/app/blinged-json-validator/id833982915?ls=1&mt=12"><img src="${ROOT_URL}/static/img/mac-store.png" /></a>
             </div>
 		
